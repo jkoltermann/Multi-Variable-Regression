@@ -8,7 +8,7 @@
 
 ### Problem Statement 
 
-In a Kaggle Competition, I am tasked with determining the relationship between a large set of variables and single family housing prices around Ames, Iowa. This analysis will involve collecting and analyzing data on various factors that may affect housing prices, such as neighborhood, size, and age of the properties. The ultimate goal is to provide the investor with insights on how these factors impact housing prices in the area, and to identify potential opportunities for investment in the single family housing market around Ames, Iowa.
+In a Kaggle Competition, I am tasked with determining the relationship between a large set of variables and single family housing prices around Ames, Iowa. This analysis will involve collecting and analyzing data on various factors that may affect housing prices, such as neighborhood, size, and age of the properties. The ultimate goal is to provide a theoretical with insights on how these factors impact housing prices in the area, and to identify potential opportunities for investment in the single family housing market around Ames, Iowa.
 
 ### Executive Summary
 
