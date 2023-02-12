@@ -1,4 +1,4 @@
-# Project 2: Housing Price Prediction Through Linear Regression
+# Housing Price Prediction Through Mulivariable Linear Regression
 
 ### Contents:
 - [Problem Statement](#Problem-Statement)
