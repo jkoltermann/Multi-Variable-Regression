@@ -1,0 +1,43 @@
+,column_name,pandas_dtype,is_unique,variable_type,is_target,ord_transform_map,impute_mean,impute_median,impute_mode
+2,lot_frontage,float64,0,Numerical,0,,0,1,0
+3,lot_area,int64,0,Numerical,0,,0,0,0
+5,lot_shape,object,0,Ordinal,0,"{'Reg': 4, 'IR1': 3, 'IR2': 2, 'IR3': 1}",0,0,0
+6,land_contour,object,0,Ordinal,0,"{'Lvl': 4, 'Low': 3, 'Bnk': 2, 'HLS': 1}",0,0,0
+15,overall_qual,int64,0,Ordinal,0,No Transform,0,0,0
+16,overall_cond,int64,0,Ordinal,0,No Transform,0,0,0
+17,year_built,int64,0,Ordinal,0,No Transform,0,0,0
+18,year_remod/add,int64,0,Ordinal,0,No Transform,0,0,0
+23,mas_vnr_area,float64,0,Numerical,0,,0,1,0
+24,exter_qual,object,0,Ordinal,0,"{'Ex': 5, 'Gd': 4, 'TA': 3, 'Fa': 2, 'Po': 1, nan: 0}",0,0,0
+25,exter_cond,object,0,Ordinal,0,"{'Ex': 5, 'Gd': 4, 'TA': 3, 'Fa': 2, 'Po': 1, nan: 0}",0,0,0
+27,bsmt_qual,object,0,Ordinal,0,No Transform,0,0,0
+28,bsmt_cond,object,0,Ordinal,0,No Transform,0,0,0
+29,bsmt_exposure,object,0,Ordinal,0,No Transform,0,0,0
+30,bsmtfin_type_1,object,0,Ordinal,0,No Transform,0,0,0
+31,bsmtfin_sf_1,float64,0,Numerical,0,,0,1,0
+33,bsmtfin_sf_2,float64,0,Numerical,0,,0,1,0
+37,heating_qc,object,0,Ordinal,0,"{'Ex': 5, 'Gd': 4, 'TA': 3, 'Fa': 2, 'Po': 1, nan: 0}",0,0,0
+40,1st_flr_sf,int64,0,Numerical,0,,0,0,0
+42,low_qual_fin_sf,int64,0,Numerical,0,,0,0,0
+43,gr_liv_area,int64,0,Numerical,0,,0,0,0
+44,bsmt_full_bath,float64,0,Numerical,0,,0,1,0
+46,full_bath,int64,0,Numerical,0,,0,0,0
+47,half_bath,int64,0,Numerical,0,,0,0,0
+48,bedroom_abvgr,int64,0,Numerical,0,,0,0,0
+49,kitchen_abvgr,int64,0,Numerical,0,,0,0,0
+50,kitchen_qual,object,0,Ordinal,0,"{'Ex': 5, 'Gd': 4, 'TA': 3, 'Fa': 2, 'Po': 1, nan: 0}",0,0,0
+51,totrms_abvgrd,int64,0,Numerical,0,,0,0,0
+52,functional,object,0,Ordinal,0,"{'Typ': 1, 'Min1': 2, 'Min2': 3, 'Mod': 4, 'Maj1': 5, 'Maj2': 6, 'Sev': 7, 'Sal': 8}",0,0,0
+53,fireplaces,int64,0,Numerical,0,,0,0,0
+54,fireplace_qu,object,0,Ordinal,0,No Transform,0,0,0
+56,garage_yr_blt,float64,0,Numerical,0,,0,1,0
+58,garage_cars,float64,0,Numerical,0,,0,1,0
+59,garage_area,float64,0,Numerical,0,,1,0,0
+60,garage_cond,object,0,Ordinal,0,No Transform,0,0,0
+62,wood_deck_sf,int64,0,Numerical,0,,0,0,0
+63,open_porch_sf,int64,0,Numerical,0,,0,0,0
+65,3ssn_porch,int64,0,Numerical,0,,0,0,0
+66,screen_porch,int64,0,Numerical,0,,0,0,0
+67,misc_val,int64,0,Numerical,0,,0,0,0
+68,mo_sold,int64,0,Ordinal,0,No Transform,0,0,0
+69,yr_sold,int64,0,Ordinal,0,No Transform,0,0,0
